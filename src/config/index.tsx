@@ -1,0 +1,2 @@
+export const API_END_POINT = 'https://api.openweathermap.org';
+export const API_KEY = 'e6334c9e7b243f8de0ee7b1480645b97' // => This API key is only for demonstration purposes and will be removed within 24 hours.  For security reasons, it is not best practice to include API keys directly in code for production environments.  After this temporary period, please refer to OpenWeatherMap.org for obtaining and managing your own API keys.
